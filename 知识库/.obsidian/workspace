@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "eb0989224d1d83ff",
+        "id": "4f5348056b2e3ed5",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "每日工作/2021-03-09.md",
-            "mode": "preview"
+            "file": ".每日工作/2021-03-09.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日工作/2021-03-09.md"
+                "file": ".每日工作/2021-03-09.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日工作/2021-03-09.md",
+                "file": ".每日工作/2021-03-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
     "width": 265.3333435058594
   },
   "lastOpenFiles": [
+    ".每日工作/2021-03-09.md",
+    ".每日工作/2021-03-08.md",
+    "每日工作/每日工作.md",
+    ".模板/每日工作.md",
+    "随记/Untitled.md",
     "每日工作/2021-03-09.md",
     "模板/每日工作.md",
+    "Untitled.md",
     "每日工作/2021-03-08.md",
-    "每日工作/每日工作.md",
-    "测试文件夹/测试文件夹.md",
-    "测试文件夹/测试3.md",
-    "测试文件夹/测试1.md",
-    "测试文件夹/测试2.md",
-    "Pasted image 20210309020714.png.md",
-    "附件/Pasted image 20210309020729.png"
+    "测试文件夹/测试文件夹.md"
   ]
 }
