@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "08ce08ef58625d7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0989224d1d83ff",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "每日工作/2021-03-09.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88c107bcd78e4092",
+    "type": "split",
+    "children": [
+      {
+        "id": "c953d7929edb32cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "787eaa8af0084934",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0f7a2ef038fc2c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226
+  },
+  "right": {
+    "id": "03ba409d395b8ee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "529c2f4ea1e4cb11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "005af3ec5036d451",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "每日工作/2021-03-09.md"
+              }
+            }
+          },
+          {
+            "id": "f28f6c1ab5bc52f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64fbe4cd736a0bc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "每日工作/2021-03-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "73a4345bb988a0c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bf2fb35eb67973a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "811d37fee9cf7b02",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.3333435058594
+  },
+  "lastOpenFiles": [
+    "每日工作/2021-03-09.md",
+    "模板/每日工作.md",
+    "每日工作/2021-03-08.md",
+    "每日工作/每日工作.md",
+    "测试文件夹/测试文件夹.md",
+    "测试文件夹/测试3.md",
+    "测试文件夹/测试1.md",
+    "测试文件夹/测试2.md",
+    "Pasted image 20210309020714.png.md",
+    "附件/Pasted image 20210309020729.png"
+  ]
+}

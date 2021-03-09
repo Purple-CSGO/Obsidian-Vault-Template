@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-iris",
+	"name": "Iris",
+	"version": "1.1.0",
+	"minAppVersion": "0.9.12",
+	"description": "Rollover todo tasks from last Daily Note",
+	"author": "OliverAndrews",
+	"authorUrl": "https://github.com/oliverandrews",
+	"isDesktopOnly": false
+}
