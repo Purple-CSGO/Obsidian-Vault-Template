@@ -3,6 +3,8 @@
 
 >  Ready-to-use Obsidian Vault Template.
 
+🏷 `old` 分支为v0.x多年前的模版
+
 ## 使用方法
 
 - 安装[Obsidian](https://obsidian.md/)
